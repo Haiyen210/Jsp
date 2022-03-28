@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/controller/ManagementEmployee.java=UTF-8
+encoding//src/main/java/controller/ServEmpInsert.java=UTF-8
+encoding//src/main/java/controller/ServEmpSearch.java=UTF-8
+encoding//src/main/java/controller/ServEmpUpdate.java=UTF-8
+encoding//src/main/java/dao/ImplEmployeeDAO.java=UTF-8
